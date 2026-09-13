@@ -42,175 +42,175 @@ Each day contains concepts, implementation, experiments, and practical work.
 
 ---
 
-# 📅 100-Day Roadmap
+# 🗺️ 100-Day Roadmap
 
-## 🐍 Phase 1 — Foundations
+## 🐍 Phase 1 — Python & Engineering Foundations
 
-| Day    | Topic                         | Status |
-| ------ | ----------------------------- | ------ |
-| Day 01 | Python Revision               | ⬜      |
-| Day 02 | Object-Oriented Programming   | 🚧     |
-| Day 03 | APIs                          | 🚧     |
-| Day 04 | NumPy                         | ⬜      |
-| Day 05 | Pandas                        | ⬜      |
-| Day 06 | Data Visualization            | ⬜      |
-| Day 07 | Mathematics for ML            | ⬜      |
-| Day 08 | Statistics & Probability      | ⬜      |
-| Day 09 | Machine Learning Fundamentals | ⬜      |
-| Day 10 | ML Model Evaluation           | ⬜      |
-
----
-
-## 🤖 Phase 2 — Machine Learning & Deep Learning
-
-| Day    | Topic                                | Status |
-| ------ | ------------------------------------ | ------ |
-| Day 11 | Linear Regression                    | ⬜      |
-| Day 12 | Logistic Regression                  | ⬜      |
-| Day 13 | Classification                       | ⬜      |
-| Day 14 | PyTorch Fundamentals                 | ✅      |
-| Day 15 | Neural Network                       | ✅      |
-| Day 16 | PyTorch Training Loop                | ✅      |
-| Day 17 | Data Pipeline                        | ✅      |
-| Day 18 | CNN, RNN, LSTM & GRU                 | ✅      |
-| Day 19 | Neural Network Build                 | ✅      |
-| Day 20 | Neural Network Classification System | 🚧     |
+| Day | Topic | Status |
+|---|---|---|
+| Day 01 | Python Revision | ✅ |
+| Day 02 | Object-Oriented Programming | ✅ |
+| Day 03 | APIs | ✅ |
+| Day 04 | NumPy & Pandas | ✅ |
+| Day 05 | Machine Learning Revision | ✅ |
+| Day 06 | ML Metrics | ✅ |
+| Day 07 | Scikit-Learn Pipeline | ✅ |
+| Day 08 | SQL | ✅ |
+| Day 09 | Git & GitHub | ✅ |
+| Day 10 | AI Data Analyst v1 | ✅ |
 
 ---
 
-## 🧠 Phase 3 — Deep Learning & NLP
+## 🧠 Phase 2 — Neural Networks & PyTorch
 
-| Day    | Topic                        | Status |
-| ------ | ---------------------------- | ------ |
-| Day 21 | Overfitting & Regularization | ⬜      |
-| Day 22 | Optimizers                   | ⬜      |
-| Day 23 | Learning Rate Scheduling     | ⬜      |
-| Day 24 | Embeddings                   | ⬜      |
-| Day 25 | NLP Fundamentals             | ⬜      |
-| Day 26 | Tokenization                 | ⬜      |
-| Day 27 | Word Embeddings              | ⬜      |
-| Day 28 | Sequence Models              | ⬜      |
-| Day 29 | Attention Mechanism          | ⬜      |
-| Day 30 | NLP Project                  | ⬜      |
-
----
-
-## 🏗️ Phase 4 — Transformers
-
-| Day    | Topic                      | Status |
-| ------ | -------------------------- | ------ |
-| Day 31 | Transformer Architecture   | ⬜      |
-| Day 32 | Self-Attention             | ⬜      |
-| Day 33 | Multi-Head Attention       | ⬜      |
-| Day 34 | Positional Encoding        | ⬜      |
-| Day 35 | Encoder & Decoder          | ⬜      |
-| Day 36 | BERT                       | ⬜      |
-| Day 37 | GPT Architecture           | ⬜      |
-| Day 38 | Hugging Face               | ⬜      |
-| Day 39 | Transformer Implementation | ⬜      |
-| Day 40 | Transformer Project        | ⬜      |
+| Day | Topic | Status |
+|---|---|---|
+| Day 11 | Neural Network Fundamentals | ✅ |
+| Day 12 | Forward Propagation & Backpropagation | ✅ |
+| Day 13 | Gradient Descent | ✅ |
+| Day 14 | PyTorch Fundamentals | ✅ |
+| Day 15 | Neural Network | ✅ |
+| Day 16 | PyTorch Training Loop | ✅ |
+| Day 17 | PyTorch Data Pipeline | ✅ |
+| Day 18 | CNN, RNN, LSTM & GRU | ✅ |
+| Day 19 | Neural Network Build | ✅ |
+| Day 20 | Neural Network Classification System | ✅ |
 
 ---
 
-## 🧬 Phase 5 — Large Language Models
+## 🤗 Phase 3 — Transformers & NLP
 
-| Day    | Topic              | Status |
-| ------ | ------------------ | ------ |
-| Day 41 | LLM Fundamentals   | ⬜      |
-| Day 42 | LLM Training       | ⬜      |
-| Day 43 | Pre-training       | ⬜      |
-| Day 44 | Instruction Tuning | ⬜      |
-| Day 45 | Fine-tuning        | ⬜      |
-| Day 46 | LoRA               | ⬜      |
-| Day 47 | Quantization       | ⬜      |
-| Day 48 | LLM APIs           | ⬜      |
-| Day 49 | Prompt Engineering | ⬜      |
-| Day 50 | LLM Application    | ⬜      |
-
----
-
-## 🔎 Phase 6 — Embeddings & RAG
-
-| Day    | Topic               | Status |
-| ------ | ------------------- | ------ |
-| Day 51 | Embeddings          | ⬜      |
-| Day 52 | Semantic Search     | ⬜      |
-| Day 53 | Vector Databases    | ⬜      |
-| Day 54 | Similarity Search   | ⬜      |
-| Day 55 | Document Processing | ⬜      |
-| Day 56 | Chunking Strategies | ⬜      |
-| Day 57 | Retrieval           | ⬜      |
-| Day 58 | RAG Architecture    | ⬜      |
-| Day 59 | RAG Evaluation      | ⬜      |
-| Day 60 | RAG Project         | ⬜      |
+| Day | Topic | Status |
+|---|---|---|
+| Day 21 | NLP Fundamentals | ⬜ |
+| Day 22 | Tokenization | ⬜ |
+| Day 23 | Word Embeddings | ⬜ |
+| Day 24 | Attention Mechanism | ⬜ |
+| Day 25 | Self-Attention | ⬜ |
+| Day 26 | Transformer Architecture | ⬜ |
+| Day 27 | Encoder vs Decoder | ⬜ |
+| Day 28 | Hugging Face Fundamentals | ⬜ |
+| Day 29 | Pretrained Models | ⬜ |
+| Day 30 | Transformer Mini Project | ⬜ |
 
 ---
 
-## 🧑‍💻 Phase 7 — AI Agents
+## 🧩 Phase 4 — Large Language Models
 
-| Day    | Topic                    | Status |
-| ------ | ------------------------ | ------ |
-| Day 61 | AI Agent Fundamentals    | ⬜      |
-| Day 62 | Agent Architecture       | ⬜      |
-| Day 63 | Tools & Function Calling | ⬜      |
-| Day 64 | Agent Memory             | ⬜      |
-| Day 65 | Planning & Reasoning     | ⬜      |
-| Day 66 | Agent Workflows          | ⬜      |
-| Day 67 | LangChain                | ⬜      |
-| Day 68 | LangGraph                | ⬜      |
-| Day 69 | Agent Evaluation         | ⬜      |
-| Day 70 | AI Agent Project         | ⬜      |
-
----
-
-## 🤝 Phase 8 — Advanced Generative AI
-
-| Day    | Topic                        | Status |
-| ------ | ---------------------------- | ------ |
-| Day 71 | Multi-Agent Systems          | ⬜      |
-| Day 72 | Agent-to-Agent Communication | ⬜      |
-| Day 73 | Structured Outputs           | ⬜      |
-| Day 74 | MCP                          | ⬜      |
-| Day 75 | AI Agent Memory Systems      | ⬜      |
-| Day 76 | Advanced RAG                 | ⬜      |
-| Day 77 | Hybrid Search                | ⬜      |
-| Day 78 | Reranking                    | ⬜      |
-| Day 79 | LLM Evaluation               | ⬜      |
-| Day 80 | Advanced GenAI Project       | ⬜      |
+| Day | Topic | Status |
+|---|---|---|
+| Day 31 | LLM Fundamentals | ⬜ |
+| Day 32 | How LLMs Work | ⬜ |
+| Day 33 | LLM Training Pipeline | ⬜ |
+| Day 34 | Pretraining vs Fine-Tuning | ⬜ |
+| Day 35 | Instruction Tuning | ⬜ |
+| Day 36 | Context Windows | ⬜ |
+| Day 37 | Temperature & Sampling | ⬜ |
+| Day 38 | LLM APIs | ⬜ |
+| Day 39 | Open-Source LLMs | ⬜ |
+| Day 40 | LLM Application | ⬜ |
 
 ---
 
-## 🚀 Phase 9 — Production GenAI
+## ✍️ Phase 5 — Prompt Engineering
 
-| Day    | Topic                   | Status |
-| ------ | ----------------------- | ------ |
-| Day 81 | FastAPI                 | ⬜      |
-| Day 82 | LLM Application APIs    | ⬜      |
-| Day 83 | Docker                  | ⬜      |
-| Day 84 | Databases               | ⬜      |
-| Day 85 | Authentication          | ⬜      |
-| Day 86 | Logging & Monitoring    | ⬜      |
-| Day 87 | Testing AI Applications | ⬜      |
-| Day 88 | Cost Optimization       | ⬜      |
-| Day 89 | Deployment              | ⬜      |
-| Day 90 | Production GenAI System | ⬜      |
+| Day | Topic | Status |
+|---|---|---|
+| Day 41 | Prompt Engineering Fundamentals | ⬜ |
+| Day 42 | Zero-Shot & Few-Shot Prompting | ⬜ |
+| Day 43 | Role & Instruction Prompting | ⬜ |
+| Day 44 | Chain-of-Thought Concepts | ⬜ |
+| Day 45 | Structured Outputs | ⬜ |
+| Day 46 | JSON-Based LLM Responses | ⬜ |
+| Day 47 | Prompt Templates | ⬜ |
+| Day 48 | Prompt Evaluation | ⬜ |
+| Day 49 | Prompt Optimization | ⬜ |
+| Day 50 | Prompt Engineering Project | ⬜ |
 
 ---
 
-## 🏆 Phase 10 — Final Project
+## 📚 Phase 6 — Embeddings & Vector Databases
 
-| Day     | Topic                   | Status |
-| ------- | ----------------------- | ------ |
-| Day 91  | Final Project Planning  | ⬜      |
-| Day 92  | System Architecture     | ⬜      |
-| Day 93  | Backend Development     | ⬜      |
-| Day 94  | LLM Integration         | ⬜      |
-| Day 95  | RAG / Agent Integration | ⬜      |
-| Day 96  | Evaluation              | ⬜      |
-| Day 97  | Testing                 | ⬜      |
-| Day 98  | Deployment              | ⬜      |
-| Day 99  | Documentation           | ⬜      |
-| Day 100 | 🚀 Final GenAI Project  | ⬜      |
+| Day | Topic | Status |
+|---|---|---|
+| Day 51 | Embeddings | ⬜ |
+| Day 52 | Semantic Similarity | ⬜ |
+| Day 53 | Vector Search | ⬜ |
+| Day 54 | Vector Databases | ⬜ |
+| Day 55 | FAISS | ⬜ |
+| Day 56 | ChromaDB | ⬜ |
+| Day 57 | Pinecone | ⬜ |
+| Day 58 | Chunking Strategies | ⬜ |
+| Day 59 | Metadata & Filtering | ⬜ |
+| Day 60 | Semantic Search Project | ⬜ |
+
+---
+
+## 🔎 Phase 7 — Retrieval-Augmented Generation (RAG)
+
+| Day | Topic | Status |
+|---|---|---|
+| Day 61 | RAG Fundamentals | ⬜ |
+| Day 62 | Document Ingestion | ⬜ |
+| Day 63 | Document Chunking | ⬜ |
+| Day 64 | Embedding Pipeline | ⬜ |
+| Day 65 | Retrieval Pipeline | ⬜ |
+| Day 66 | Context Construction | ⬜ |
+| Day 67 | RAG Prompting | ⬜ |
+| Day 68 | RAG Evaluation | ⬜ |
+| Day 69 | Advanced Retrieval | ⬜ |
+| Day 70 | RAG Application | ⬜ |
+
+---
+
+## 🤖 Phase 8 — AI Agents
+
+| Day | Topic | Status |
+|---|---|---|
+| Day 71 | AI Agent Fundamentals | ⬜ |
+| Day 72 | Agent Architecture | ⬜ |
+| Day 73 | Tool Calling | ⬜ |
+| Day 74 | Function Calling | ⬜ |
+| Day 75 | Agent Memory | ⬜ |
+| Day 76 | Planning & Reasoning | ⬜ |
+| Day 77 | Multi-Step Agents | ⬜ |
+| Day 78 | Agent Workflows | ⬜ |
+| Day 79 | Multi-Agent Systems | ⬜ |
+| Day 80 | AI Agent Project | ⬜ |
+
+---
+
+## ⚙️ Phase 9 — LLM Engineering & Production
+
+| Day | Topic | Status |
+|---|---|---|
+| Day 81 | LLM Evaluation | ⬜ |
+| Day 82 | Hallucination Detection | ⬜ |
+| Day 83 | Guardrails | ⬜ |
+| Day 84 | LLM Observability | ⬜ |
+| Day 85 | Cost Optimization | ⬜ |
+| Day 86 | Latency Optimization | ⬜ |
+| Day 87 | Caching | ⬜ |
+| Day 88 | AI Application Security | ⬜ |
+| Day 89 | Deployment | ⬜ |
+| Day 90 | Production AI System | ⬜ |
+
+---
+
+## 🏆 Phase 10 — Capstone & Portfolio
+
+| Day | Topic | Status |
+|---|---|---|
+| Day 91 | Capstone Architecture | ⬜ |
+| Day 92 | Backend Development | ⬜ |
+| Day 93 | LLM Integration | ⬜ |
+| Day 94 | RAG Integration | ⬜ |
+| Day 95 | Agent Integration | ⬜ |
+| Day 96 | Evaluation & Testing | ⬜ |
+| Day 97 | Deployment | ⬜ |
+| Day 98 | Documentation | ⬜ |
+| Day 99 | Portfolio & Resume Preparation | ⬜ |
+| Day 100 | 🚀 Final Generative AI Engineer Project | ⬜ |
 
 ---
 
