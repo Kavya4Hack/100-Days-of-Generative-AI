@@ -1,1 +1,157 @@
-"""Day 21 - NLP Evolution"""\n\nfrom sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer\n\ndocuments = [\n    "I love Python",\n    "I love AI",\n    "Python is powerful",\n]\n\nprint("=" * 60)\nprint("1. BAG OF WORDS")\nprint("=" * 60)\nbow = CountVectorizer()\nbow_matrix = bow.fit_transform(documents)\nprint("Vocabulary:", bow.get_feature_names_out())\nprint("Matrix:")\nprint(bow_matrix.toarray())\n\nprint("\\n" + "=" * 60)\nprint("2. TF-IDF")\nprint("=" * 60)\ntfidf = TfidfVectorizer()\ntfidf_matrix = tfidf.fit_transform(documents)\nprint("Vocabulary:", tfidf.get_feature_names_out())\nprint("Matrix:")\nprint(tfidf_matrix.toarray())\n\nprint("\\n3. WORD2VEC")\nprint("Words can be represented as dense vectors called embeddings.")\n\nprint("\\n4. RNN")\nprint("RNN processes sequences and carries information through hidden states.")\n\nprint("\\n5. LSTM")\nprint("LSTM improves sequence memory using gates.")\n\nprint("\\n6. ATTENTION")\nprint("Attention allows a model to focus on relevant parts of the input.")\n\nprint("\\n7. TRANSFORMER")\nprint("Transformers use attention as the central mechanism.")\n\nprint("\\n8. LLM")\nprint("Large Language Models are large neural networks trained on huge text datasets.")\n\nprint("\\nNLP EVOLUTION")\nfor i, item in enumerate([\n    "Bag of Words", "TF-IDF", "Word2Vec", "RNN",\n    "LSTM", "Attention", "Transformer", "LLM"\n], start=1):\n    print(f"{i}. {item}")\n
+"""Day 21 - NLP Evolution"""
+
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+
+
+# --------------------------------------------------
+# Documents
+# --------------------------------------------------
+
+documents = [
+    "I love Python",
+    "I love AI",
+    "Python is powerful",
+]
+
+
+# --------------------------------------------------
+# 1. BAG OF WORDS
+# --------------------------------------------------
+
+print("=" * 60)
+print("1. BAG OF WORDS")
+print("=" * 60)
+
+bow = CountVectorizer()
+
+bow_matrix = bow.fit_transform(documents)
+
+print("Vocabulary:")
+print(bow.get_feature_names_out())
+
+print("\nMatrix:")
+print(bow_matrix.toarray())
+
+
+# --------------------------------------------------
+# 2. TF-IDF
+# --------------------------------------------------
+
+print("\n" + "=" * 60)
+print("2. TF-IDF")
+print("=" * 60)
+
+tfidf = TfidfVectorizer()
+
+tfidf_matrix = tfidf.fit_transform(documents)
+
+print("Vocabulary:")
+print(tfidf.get_feature_names_out())
+
+print("\nMatrix:")
+print(tfidf_matrix.toarray())
+
+
+# --------------------------------------------------
+# 3. WORD2VEC
+# --------------------------------------------------
+
+print("\n" + "=" * 60)
+print("3. WORD2VEC")
+print("=" * 60)
+
+print(
+    "Words can be represented as dense vectors "
+    "called embeddings."
+)
+
+
+# --------------------------------------------------
+# 4. RNN
+# --------------------------------------------------
+
+print("\n" + "=" * 60)
+print("4. RNN")
+print("=" * 60)
+
+print(
+    "RNN processes sequences and carries information "
+    "through hidden states."
+)
+
+
+# --------------------------------------------------
+# 5. LSTM
+# --------------------------------------------------
+
+print("\n" + "=" * 60)
+print("5. LSTM")
+print("=" * 60)
+
+print(
+    "LSTM improves sequence memory using gates."
+)
+
+
+# --------------------------------------------------
+# 6. ATTENTION
+# --------------------------------------------------
+
+print("\n" + "=" * 60)
+print("6. ATTENTION")
+print("=" * 60)
+
+print(
+    "Attention allows a model to focus on relevant "
+    "parts of the input."
+)
+
+
+# --------------------------------------------------
+# 7. TRANSFORMER
+# --------------------------------------------------
+
+print("\n" + "=" * 60)
+print("7. TRANSFORMER")
+print("=" * 60)
+
+print(
+    "Transformers use attention as the central mechanism."
+)
+
+
+# --------------------------------------------------
+# 8. LLM
+# --------------------------------------------------
+
+print("\n" + "=" * 60)
+print("8. LARGE LANGUAGE MODEL")
+print("=" * 60)
+
+print(
+    "Large Language Models are large neural networks "
+    "trained on huge text datasets."
+)
+
+
+# --------------------------------------------------
+# COMPLETE NLP EVOLUTION
+# --------------------------------------------------
+
+print("\n" + "=" * 60)
+print("NLP EVOLUTION")
+print("=" * 60)
+
+evolution = [
+    "Bag of Words",
+    "TF-IDF",
+    "Word2Vec",
+    "RNN",
+    "LSTM",
+    "Attention",
+    "Transformer",
+    "LLM",
+]
+
+for i, item in enumerate(evolution, start=1):
+    print(f"{i}. {item}")
