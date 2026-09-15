@@ -83,7 +83,7 @@ Each day contains concepts, implementation, experiments, and practical work.
 | Day | Topic | Status |
 |---|---|---|
 | Day 21 | NLP Fundamentals | ✅ |
-| Day 22 | Tokenization | ⬜ |
+| Day 22 | Tokenization | ✅ |
 | Day 23 | Word Embeddings | ⬜ |
 | Day 24 | Attention Mechanism | ⬜ |
 | Day 25 | Self-Attention | ⬜ |
@@ -341,10 +341,10 @@ Each day contains concepts, implementation, experiments, and practical work.
 
 # 📊 Progress
 
-### Current Progress: 20 / 100 Days
+### Current Progress: 22 / 100 Days
 
 ```text
-████████████████████░░░░░░░░░░░░░░░░░░░░ 20%
+████████████████████░░░░░░░░░░░░░░░░░░░░ 22%
 ```
 
 This repository will continuously evolve as new concepts, implementations, experiments, and projects are completed.
