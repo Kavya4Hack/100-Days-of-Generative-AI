@@ -369,7 +369,7 @@ Major projects developed throughout the journey will be listed here.
 
 | Project                   | Technologies               | Status |
 | ------------------------- | -------------------------- | ------ |
-| Neural Network Classifier | PyTorch                    | 🚧     |
+| Neural Network Classifier | PyTorch                    | ✅     |
 | NLP Application           | Python, NLP                | ⬜      |
 | Transformer Project       | PyTorch, Transformers      | ⬜      |
 | LLM Application           | LLM API                    | ⬜      |
