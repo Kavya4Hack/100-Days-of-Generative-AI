@@ -86,7 +86,7 @@ Each day contains concepts, implementation, experiments, and practical work.
 | Day 22 | Tokenization | ✅ |
 | Day 23 | Word Embeddings | ✅ |
 | Day 24 | Attention Mechanism | ✅ |
-| Day 25 | Self-Attention | ⬜ |
+| Day 25 | Self-Attention | ✅ |
 | Day 26 | Transformer Architecture | ⬜ |
 | Day 27 | Encoder vs Decoder | ⬜ |
 | Day 28 | Hugging Face Fundamentals | ⬜ |
@@ -341,10 +341,10 @@ Each day contains concepts, implementation, experiments, and practical work.
 
 # 📊 Progress
 
-### Current Progress: 24 / 100 Days
+### Current Progress: 25 / 100 Days
 
 ```text
-████████████████████░░░░░░░░░░░░░░░░░░░░ 24%
+████████████████████░░░░░░░░░░░░░░░░░░░░ 25%
 ```
 
 This repository will continuously evolve as new concepts, implementations, experiments, and projects are completed.
@@ -370,7 +370,7 @@ Major projects developed throughout the journey will be listed here.
 | Project                   | Technologies               | Status |
 | ------------------------- | -------------------------- | ------ |
 | Neural Network Classifier | PyTorch                    | ✅     |
-| NLP Application           | Python, NLP                | ⬜      |
+| NLP Application           | Python, NLP                | 🚧      |
 | Transformer Project       | PyTorch, Transformers      | ⬜      |
 | LLM Application           | LLM API                    | ⬜      |
 | RAG System                | Embeddings, Vector DB, LLM | ⬜      |
