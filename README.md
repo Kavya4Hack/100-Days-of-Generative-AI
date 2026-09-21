@@ -87,7 +87,7 @@ Each day contains concepts, implementation, experiments, and practical work.
 | Day 23 | Word Embeddings | ✅ |
 | Day 24 | Attention Mechanism | ✅ |
 | Day 25 | Self-Attention | ✅ |
-| Day 26 | Transformer Architecture | ⬜ |
+| Day 26 | Transformer Architecture | ✅ |
 | Day 27 | Encoder vs Decoder | ⬜ |
 | Day 28 | Hugging Face Fundamentals | ⬜ |
 | Day 29 | Pretrained Models | ⬜ |
@@ -341,10 +341,10 @@ Each day contains concepts, implementation, experiments, and practical work.
 
 # 📊 Progress
 
-### Current Progress: 25 / 100 Days
+### Current Progress: 26 / 100 Days
 
 ```text
-████████████████████░░░░░░░░░░░░░░░░░░░░ 25%
+████████████████████░░░░░░░░░░░░░░░░░░░░ 26%
 ```
 
 This repository will continuously evolve as new concepts, implementations, experiments, and projects are completed.
